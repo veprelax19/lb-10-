@@ -1,6 +1,6 @@
 ## Виконала самостійно Слобожан Софія РПЗ-23А
 # Laboratory Work Report №10
-
+ыфв
 ## Topic: Changing File Ownership and Access Rights in Linux. Special Directories and Files in Linux
 
 ## Objective:
